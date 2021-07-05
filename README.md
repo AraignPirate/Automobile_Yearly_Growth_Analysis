@@ -39,4 +39,35 @@ If no error occurs then all the dependencies are installed successfully
 
 ## Software Demo 
 
+#### Home Screen
+
+Home screen of software displays overall stats of the company.
+
+![Image of Home page](https://github.com/AraignPirate/Automobile_Yearly_Growth_Analysis/blob/main/Demo/home_screen.png)
+
+Click on **Analyse button** to switch on next screen
+
+#### Options Screen
+
+This screen shows all the automobile categories to choose.
+
+![Main Screen](https://github.com/AraignPirate/Automobile_Yearly_Growth_Analysis/blob/main/Demo/Analyse_options.png)
+
+Click on their respective button to Analyse data graphically.
+
+#### Graph Screen
+
+Each data can be shown in 2 Types of Graphs 
+  - Line Graph
+  - Scatter Plot Graph
+
+**Line graph is shown as**
+
+![Line Graph](https://github.com/AraignPirate/Automobile_Yearly_Growth_Analysis/blob/main/Demo/graph_line.png)
+
+**Scatter Plot Graph** is shown as
+
+![Scatter Plot Graph](https://github.com/AraignPirate/Automobile_Yearly_Growth_Analysis/blob/main/Demo/graph%20scatter.png)
+
+
 
