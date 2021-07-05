@@ -69,5 +69,30 @@ Each data can be shown in 2 Types of Graphs
 
 ![Scatter Plot Graph](https://github.com/AraignPirate/Automobile_Yearly_Growth_Analysis/blob/main/Demo/graph%20scatter.png)
 
+## Settings.json File
+
+This settings file have following constant values 
+
+- Company_name
+- Current_year
+- Establishment_year
+
+These values are displayed on home screen and can be changed in settings.json file.
+
+## CsvYearlyData Folder
+
+This folder contains CSV files and a **createPDE.py** file to generate test data values for visualization.
+
+run this createPDE.py file to generate logically correct Dummy data.
+
+> `cd CsvYearlyData`
+
+> `python3 createPDE.py`
+
+This will prompt for **starting year** and **ending year** till which we want our dummy data.
+
+This will also create a **YearlyData.db** file which cane be connect to the software (by Default data is taken from csv files)
+
+
 
 
