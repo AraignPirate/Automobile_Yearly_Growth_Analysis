@@ -32,6 +32,11 @@ Required **Python version (3.9.5)**
 
 If no error occurs then all the dependencies are installed successfully
 
+## Run Software
 
+- run this program with python in terminal / cmd
+  - > `python3 Analysedata.py`
+
+## Software Demo 
 
 
