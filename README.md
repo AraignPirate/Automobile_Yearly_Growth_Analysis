@@ -1,6 +1,5 @@
 # Automobile Yearly Growth Analysis
 
-
 A Python Software Project to visualize and Analyze Yearly growth of Automobile Company.
 
 - Buid on **Python Version (3.9.5)**
